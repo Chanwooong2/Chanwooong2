@@ -1,16 +1,16 @@
-### Hi there 👋
+# Chanwoong
 
-<!--
-**Chanwooong2/Chanwooong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4년 차, Full-stack을 향해 나아가는 개발자 문찬웅입니다.
 
-Here are some ideas to get you started:
+### Contact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email_ **mcw0219@gmail.com**
+
+Phone_ **010-6729-6330**
+
+### Channel.
+
+GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
+
+### Resume.
+[**https://github.com/Chanwooong2/resume**](https://github.com/Chanwooong2/resume) 
