@@ -1,7 +1,5 @@
 # Chanwoong
 
-4년 차, Full-stack을 향해 나아가는 개발자 문찬웅입니다.
-
 ### Contact.
 
 Email_ **mcw0219@gmail.com**
